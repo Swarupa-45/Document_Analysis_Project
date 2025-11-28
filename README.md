@@ -3,20 +3,20 @@
 This project focuses on extracting important information from PDF forms and job advertisements.
 The PDFs contained details such as:
 
-Post name
+- Post name
 
-Number of vacancies
+- Number of vacancies
 
-Qualifications required
+- Qualifications required
 
-Experience criteria
+- Experience criteria
 
-Age limits
+- Age limits
 
-Salary
+- Salary
 
-Application process
+- Application process
 
-Important dates
+- Important dates
 
 The goal of the project was to read the PDF files, understand the content, and summarize the useful information in a simple and clear format.
